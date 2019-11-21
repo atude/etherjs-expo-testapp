@@ -3,7 +3,7 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerNgrokUrl": "https://k2-nn2.anonymous.ethersjs-expo-testapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.k2-nn2.anonymous.ethersjs-expo-testapp.exp.direct",
+  "ngrokPid": 1922
 }
